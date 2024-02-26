@@ -9,3 +9,25 @@ h1{
         color: yellowgreen;
     } */
 }
+
+@media (max-width: 600px) {
+.card {
+    width: 100%;
+    display: block;
+    text-align: justify;
+}
+}
+
+.left-section {
+    float: left;
+}
+
+.card img {
+    width: 200px;
+}
+.right-section {
+    float: right;
+}
+.card img {
+    width: 200px;
+}
